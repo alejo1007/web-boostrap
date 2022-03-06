@@ -1,9 +1,9 @@
 {
-    "version": 3,
-    "mappings": "AAAA,OAAO,CAAC,wIAAI",
-    "sources": [
-        "../styles/stiles.scss"
-    ],
-    "names": [],
-    "file": "stiles.css"
+  "version": 3,
+  "mappings": "AAAA,OAAO,CAAC,wIAAI",
+  "sources": [
+    "../styles/stiles.scss"
+  ],
+  "names": [],
+  "file": "stiles.css"
 }
