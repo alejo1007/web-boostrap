@@ -1,2 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Oooh+Baby&family=Roboto:wght@100&family=Sedgwick+Ave&display=swap");
+.contenedor {
+  background-color: #0080c3;
+  height: 50px;
+  width: 30%;
+}
+
+p {
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-name: slidein;
+          animation-name: slidein;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+}
+
+.gray {
+  -moz-filter: grayscale(50%);
+  -webkit-filter: grayscale(50%);
+  filter: grayscale(50%);
+}
 /*# sourceMappingURL=stiles.css.map */
