@@ -3,8 +3,9 @@
   height: 50px;
   width: 15% * 2;
 }
-.contenedor {
-  background-color: #0080c3;
-  height: 50px;
-  width: 15% * 2;
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
 }
